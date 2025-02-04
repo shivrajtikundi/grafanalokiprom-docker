@@ -198,3 +198,6 @@ By following this guide, you have successfully:
 
 Now, you can visualize system performance and logs effectively! 🚀
 
+Dashboard of loki docker  container grafana id:   18702
+Dashboard of promethius node grafana exporter id:  1860 
+
